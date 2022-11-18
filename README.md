@@ -17,7 +17,7 @@
   google-services.json file and you'll be good to go.
   
 # Contribute
-  I'll really appreciate any UI upgrade suggestions and repos!  
+  I'll really appreciate any UI upgrade suggestions and contributions!  
   
   
  
